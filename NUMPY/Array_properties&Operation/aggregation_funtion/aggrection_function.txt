@@ -1,0 +1,10 @@
+aggregation  functions (summarise)
+--> Data maise kuch summarise nikalna 
+
+functions Name ->  
+np.sum(array) --> adds all element in array
+np.mean(array) --> calculate mean value in array
+np.min(array) -->  calculate min values in array 
+np.max(array) -->  calculate max value in array 
+np.std(array) -->(std means standard deviation) calculate in array
+np.var(array) -->  calculate varians

@@ -1,0 +1,9 @@
+NaN(Noat a number )  
+None(for ojects data types) 
+
+
+#missing data find and its return value Boolean(True,False)
+isnull()   
+
+True - NaN (Not a number missing value)
+False -  value is present

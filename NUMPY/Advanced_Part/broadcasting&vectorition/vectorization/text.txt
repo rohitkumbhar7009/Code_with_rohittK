@@ -1,0 +1,1 @@
+vectorization =  one arrays mai all element ke sath operation krna hai bina loops ke  to vectorizion use krte hai 

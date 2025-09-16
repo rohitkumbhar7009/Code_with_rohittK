@@ -1,0 +1,8 @@
+Broadcasting - Expend  small arrays   to larger arrays
+   Advantage = Faster Than loops  
+
+
+vectorization -  entire array do  all operation 
+
+    vectorization used also matrix operation 
+  Advantage = 100x time faster than loops 

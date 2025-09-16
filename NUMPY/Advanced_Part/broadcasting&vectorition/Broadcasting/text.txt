@@ -1,0 +1,17 @@
+how numpy  hamdle arrays of different shape  ? 
+
+
+
+
+Broadcasting Rule - 3
+
+1- Matching dimensions - agar 2 arrays same shape ke hote hai tb elements vise  operation normally ho jayega 
+eg- [1,2,3] + [4,5,6] = [5,7,9]
+
+
+2- Expending single elements - 
+eg -  [1,2,3] + 10 = [11,12,13]
+
+3- Incompatable shapes-  
+eg- [1,2,3] + [1,2] =   Error show krega
+ 

@@ -1,0 +1,9 @@
+handling missing value - 
+
+3 build in function -  
+1 - np.isnan -> missing value detect 
+2 - np.nan_to_num()   --> nan se missing value mili hai agar dusre number ke sath replace krna chahate ho to 
+3 - np.isinf  ->  detect infinite values 
+
+
+NAN means - Not a Number  it returns like boolian value (true ,false )

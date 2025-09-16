@@ -1,0 +1,13 @@
+1- column, rows ? 
+2- what type of data? 
+3- missing data?    
+
+
+
+by using info()  #method 
+
+1- number of  rows and columns easily find it 
+2- column  names 
+3- dataTypes 
+4- none,null,counts  value show 
+5- memory usage of the data frame 

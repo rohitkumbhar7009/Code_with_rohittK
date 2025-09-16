@@ -1,0 +1,17 @@
+
+What is Data Manipulation  And Analysis ?
+
+Data Manipulation 
+   . Defination: Changing ,organizing , or preparing data to make it useful and easier to understand. 
+   . Goal : To clean ,transform, and structure raw data for better usability.
+   Example: 
+     - organizing a Grocery List : sorting random items into categories like "Fruits" or "Dairy".
+     - Fixing Errors in a student Record : Correcting missing or wrong  grades.
+
+
+Data Analysis 
+    .Defination : Extarcting patterns ,trend and insights from the data to solve problem  and make discison.
+    .Goal   :  To answer quetions or identify trends using the data.
+    Example: 
+      - Analyzing Sales trends : Finding the month with the highest revenue 
+      -tracking fitness progress: Analyzing daily steps and calories for act

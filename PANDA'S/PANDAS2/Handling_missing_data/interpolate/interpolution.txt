@@ -1,0 +1,20 @@
+interpollution ek aisi technic hoti hai jiske andar   jo missing value hoti hai  unme ek estimatted value fill krti hai
+estimate  value find krta hai  its based on mathematical 
+
+types of interpollution
+1. linear --> a.preserve data integrity (rows ko and column ko drop kro )
+missingvalue ko replace kro rbtree
+b. smooth trends(time series data or continuity data )
+c. Avoid Data Loss
+
+2. polynomial interpollution
+
+
+
+#in pandas interpoate method  its used to fill missing data 
+
+eg -
+10
+20
+NaN
+40

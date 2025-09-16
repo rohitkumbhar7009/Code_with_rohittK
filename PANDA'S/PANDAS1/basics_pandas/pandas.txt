@@ -1,0 +1,31 @@
+Pnadas: Reading and Writing Files 
+
+
+
+Pandas - Overview of Pandas file handling 
+
+Category                          Topics 
+
+1- Reading Files  -   Reading CSV Nes using pd.read.csv("file.csv").
+                  -   Reading CSV files using pdf.read_excel('file.xlsx',sheet.name="Sheet1").
+                  -    Reading  JSON files  using pd.read_json('file.json').
+
+
+2- Writing Files  -  Saving to CSV using df.to_csv('output.csv',index = False)
+                  -  Saving to EXCEL using df.to_excel('output.xlsx',index=False)
+
+3- Real-World     - Handling e-commerce data (product.user and transaction recirds)
+   Application    - Cleaning data and generating actionable insights.
+
+4- Key Considerations - Resolve encoding issues with encoding "utf-8" or encoding = "latin".
+                       - Processing large datasets in smaller chunks using chunkize .
+                       -Reading/Writing files from cloud platforms using libraries like gcsfs.
+ 
+5- exporing Data  - Previewing data using head() and  tail()
+                  - Understanding data structuring info() and describe().
+                  - Checking the dataset size using  shape and column names with columns.
+
+6- Filtering And  - Selecting specific columns with df["column"] or  df[['col1','col2']].
+   Selecting      - Filtering rows using Considerations with & (AND) and 
+                  - Applying Filtering techniques for real-world data scenarios.
+             
