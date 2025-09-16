@@ -1,0 +1,30 @@
+datatype define that which type of data stored in variable .
+
+"""
+1. Numeric Type - 
+int - +ve ,-ve whole numbers (1,2,3,-4,-5,10)
+float - decimal numbers (1.5,10.2,-10.2,25.50)
+complex - real and imagenary parts Eg.(a+bj,3+4j) its used also electromagnetic waves calculate
+
+
+2. Boolean Type - 
+                 its return value True/False
+                 its also used as logical operations 
+ Eg.- is_raining =True 
+      is_sunny = False
+
+3. None Type - its represent  Absense Of value
+
+4.Sequence type -  Order collection ,single variable also stored multiple type of values
+a-string - (a Sequence of character ,and used in '' and ""  ) ,immutable(not change) , 
+b-list -  group of elements stored in single variable  ,its stored in [],list is mutable (change)
+c-tuple-  same as list but its stored in  () ,its immutable(not change ,not modified )
+
+
+5.set type  - unoreder collection ,and unique items,remove duplicate values 
+a. set(mutable) - change 
+b. frozenset(immutable) - not change
+
+6.Mapping type - collection of key value pairs  key:value , its stored in {}
+
+"""

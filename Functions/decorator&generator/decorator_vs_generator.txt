@@ -1,0 +1,5 @@
+decorator use - to modify and inhance function without actual code change ,bassically the rap another function .
+generator use - To generate a sequence of value  over time .
+
+decorator Eg- ek naya phone dena hai apne family  mai apne papa aur mummy ko ab normal phone doge normal box doge itani excitment nhi  aayegi right to aapne ki yar esko  ek kam kro gift mai pack krke rap krke do ,rap karne se koi origininal phone mai thodi changes aagaye .vo ek extra functionality add hogayi right  
+generator Eg-  ek hi bar mai ek hi value operate karte ho ,iterator hai vo pura ka pura memory consume nhi krta 

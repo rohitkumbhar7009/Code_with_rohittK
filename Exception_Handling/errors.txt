@@ -1,0 +1,31 @@
+what are errors?
+
+
+3 types of error  
+ 1- compile time errors
+ 2- Runtime errors
+ 3- Logical errors
+
+
+ errors  in software development  - bugs 
+ removing fixing these errors     - Debugging
+
+Exception- Exception is a special type 
+1- Start running 
+2- Warning sign 
+3-  error catch and handle ,program crash nhi hoga 
+
+ Exception Handling ?(try-except block)
+ Try -  code error aa sakta hai 
+ except - error aagya  to krna kya hai 
+ finally - ye block hamesha chalta hai bhale Exception range ho ya na ho  matalab program crash ho ya na ho 
+
+
+nested try-except block  - 
+
+
+
+
+
+
+

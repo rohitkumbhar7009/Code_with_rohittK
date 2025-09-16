@@ -1,0 +1,13 @@
+block of code task perform 
+
+
+Functions 
+1-Reusability 
+2-Modularity
+3-Scoping
+
+
+
+Functions Name is Meaningful  compulsary 
+length of functions 
+avoid global variables 

@@ -1,0 +1,13 @@
+file - is a collection of stored Data 
+File can store text,images ,videos  any type of data store
+files Can modify  edit delete update 
+
+
+2 primary files types 
+1 - text files (.txt, .csv)
+2 - binary files (non Text data,eg. .png,.jpeg ,.pdf , .mp3  )
+
+
+using with statement by  (file close  krne ke liye )isase file curruption nhi hoga 
+syntax - with open('file_name','mode')  as file_name
+             print (file_name.read())

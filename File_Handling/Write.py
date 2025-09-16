@@ -1,0 +1,5 @@
+file = open('D:\\Code_with_sagar\\File_Handling\\files2.txt','w')
+content = input('enter a data to write: ')
+file.write(content)
+print('data saved Successfully!')
+file.close()
