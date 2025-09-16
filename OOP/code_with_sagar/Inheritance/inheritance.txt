@@ -1,0 +1,5 @@
+Inheritance means parent child relation 
+
+eg. Parent class - 2 methods  (p1,p2)
+
+    child class -   methods (p3,p4,p2)

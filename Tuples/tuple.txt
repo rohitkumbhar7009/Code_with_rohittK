@@ -1,0 +1,20 @@
+tuple is multiple element store it .
+
+tuple = 
+1- immutable   (one time create to do not modified )
+2 - heterogeneous (multiple type of data store it )
+3 - syntax also use in parenthesis ()
+
+
+tuple is work that 
+
+len()
+min()
+max()
+count()
+index()
+sorted()
+
+
+ 
+imp sliging is possible in tuple 

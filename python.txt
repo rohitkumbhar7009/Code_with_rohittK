@@ -1,0 +1,51 @@
+Introduction  to programming 
+
+computer is a  binary language understand.
+
+what is programming?
+--> programming is the process of writing instruction.
+real eg. ->  one robot and work is  foods cooked  writing a recipie 
+
+what is compiler ?
+--> its high level code convert in machine code .(Entire all code its one time convert in machine code )
+lang- c,c++,java
+
+what is interpretor?
+-->its high level code convert line by line in   machine code .
+lang- python,javascript 
+
+python its also used interpretor and helps debugger .
+
+bugs -->  error
+
+debugs --> its means find  errors  & removed  this process called.
+
+
+high level(HLL) -> 1. Easy to read & write
+              2. its nature is slow 
+              3. eg.- java,c,c++,python 
+              4. high level language its need translate 
+
+
+Low level (LLL)-> 1. directly hardware  interact 
+             2. its nature is Fast And Dificulty 
+             3.Eg.- Assembly,machine-code 
+             4.LLM is harder 
+
+python - Python is a high-level, interpreted programming language known for its simplicity, readability.
+         It was created by Guido van Rossum and first released in 1991.
+         its used Web-devlopment ,data-science,data-analysis,aiml ,automation
+
+Syntax - 
+          
+
+features -  1. Easy to Learn.
+            2. python is interpreted language.(help debugging process easily)
+            3. cross plateform(by using mac,linux,windows)
+            4. Huge library support(python built in library using data science ,ai  do work )
+            5. Open Source 
+            6. Python  is object programming language and functional programming also 
+            7. python is scalable and fast 
+           
+         
+         

@@ -1,0 +1,41 @@
+object oriented programming 
+
+type	                             Definition	                                                      Real-life Example	                 Key Concept
+Encapsulation	    Hiding internal details using private variables and methods	     Bank Account (Balance access restricted)	      Data Protection
+Abstraction	        Hiding unnecessary details and showing only essential ones	     ATM Machine (User sees UI, not internal logic)   Interface Design
+Inheritance	        One class inherits properties from another class	             Car and Bike (Both are Vehicles)	              Code Reusability
+Polymorphism	    One interface, multiple implementations	                          Animals (Different sounds for Dog and Cat)	Flexibility and Extensibility
+
+
+
+Before oops  -
+using procedural programing language to write a code (structured programing)
+by using function 
+and step by step execute 
+
+
+
+problems 
+1- code duplication 
+2-  code maintanance
+3-  data security issues  
+4-  poor code Reusability
+5-  No real world representation 
+
+
+solve this problem and generate oops 
+
+oop - object oriented programing (represend real world thing is an object )
+
+
+            object 
+
+    data           functions (methods,behaviour)
+
+
+oops ke 5 concept 
+1- classes & objects 
+2- Inheritance
+3- Encapsulation
+4- Abstraction
+5- Polymorphism

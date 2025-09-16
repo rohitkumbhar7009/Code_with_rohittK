@@ -1,0 +1,18 @@
+Operators - operators  is used of mathematical or logical operations  
+operands - are the value 
+
+by using BODMAS Rule or PEMDAS (Parenthesis(),Exponent(**),Multiplication(*),Division(/),Addition(+),substraction(-))
+
+priority  wise 
+1.(Parenthesis(),
+2.Exponent(**),
+3.Multiplication(*),Division(/),
+5.Addition(+),substraction(-))
+
+
+
+________________________________________________________________________________________________________________________________
+
+Operators Type 
+ 
+1. Arithmetic Operator -

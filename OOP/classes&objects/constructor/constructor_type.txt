@@ -1,0 +1,6 @@
+3 types of constructor 
+1-default constructor(self)   - no any parameter 
+2-parameterized constructor (self,name,age)  pass the parameter 
+3-constructor With default values (self,name="unknown") pass default parameter value 
+
+
